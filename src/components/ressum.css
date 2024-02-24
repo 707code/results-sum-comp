@@ -371,17 +371,17 @@
   }
 
   .cyrcle p {
-    min-width: 63px;
-    height: 72px;
-    flex-grow: 0;
-    font-size: 56px;
-    font-weight: 800;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.29;
-    letter-spacing: normal;
-    text-align: center;
-    color: #fff;
+    width: 63px;
+  height: 72px;
+  flex-grow: 0;
+  font-size: 56px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
   }
 
   .cyrcle span {
